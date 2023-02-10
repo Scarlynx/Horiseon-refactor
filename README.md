@@ -1,4 +1,4 @@
-# <Horiseon Refractor Homework 1>
+# Horiseon Refractor Homework 1
 
 ## Description
 
