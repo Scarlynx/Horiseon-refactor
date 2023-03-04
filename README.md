@@ -29,3 +29,4 @@ N/A
 
 MIT License and/or refer to the LICENSE in the repo.
 ---
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/119868984/222925244-f856d567-0e0c-4f71-933e-42b3b79f0315.png)
