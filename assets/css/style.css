@@ -84,23 +84,23 @@ p {
 }
 
 /* DRY - Keeping the list short and simple by combining each section and class with the same layout(s) */
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+.lead,
+.brand,
+.cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
+.lead h3,
+.brand h3,
+.cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
+.lead img,
+.brand img,
+.cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
